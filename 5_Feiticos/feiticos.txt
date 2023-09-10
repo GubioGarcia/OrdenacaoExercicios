@@ -1,0 +1,20 @@
+1. Expelliarmus - Desarma o oponente, fazendo com que ele solte o objeto que esta segurando
+2. Avada Kedavra - A Maldicao da Morte, que causa a morte instantanea da vitima
+3. Expecto Patronum - Invoca um Patrono, uma criatura que protege contra os Dementadores e os Bicho-Papoes
+4. Alohomora - Abre fechaduras e portas trancadas
+5. Wingardium Leviosa - Levita objetos, permitindo que eles flutuem no ar
+6. Lumos - Ilumina a ponta da varinha, criando luz
+7. Petrificus Totalus - Petrifica o oponente, deixando-o temporariamente imovel
+8. Imperius - Controla a mente da vitima, forçando-a a obedecer aos comandos do bruxo que lancou o feitico
+9. Protego - Cria um escudo protetor que repele feitiços e ataques
+10. Sectumsempra - Causa cortes profundos e sangrentos no corpo do oponente
+11. Riddikulus - Transforma Bicho-Papoes em algo engraçado, fazendo-os recuar
+12. Accio - Invoca objetos para o bruxo, atraindo-os rapidamente
+13. Reducto - Faz objetos explodirem ou se despedacarem
+14. Aguamenti - Produz agua a partir da varinha
+15. Expulso - Causa explosoes poderosas
+16. Protego Totalum - Reforca as defesas e protecoes em um local
+17. Legilimens - Permite a leitura dos pensamentos de outra pessoa
+18. Obliviate - Apaga a memória de um individuo
+19. Metamorphmagus - Permite que o bruxo ou bruxa mude sua aparencia fisica
+20. Levicorpus - Suspensa a vitima pelos tornozelos, fazendo-a ficar de cabeca para baixo
