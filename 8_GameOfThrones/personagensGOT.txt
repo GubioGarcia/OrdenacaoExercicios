@@ -1,0 +1,40 @@
+1. Jon Snow
+2. Daenerys Targaryen
+3. Tyrion Lannister
+4. Cersei Lannister
+5. Jaime Lannister
+6. Arya Stark
+7. Sansa Stark
+8. Bran Stark
+9. Robb Stark
+10. Ned Stark
+11. Catelyn Stark
+12. Joffrey Baratheon
+13. Melisandre
+14. Stannis Baratheon
+15. Davos Seaworth
+16. Samwell Tarly
+17. Theon Greyjoy
+18. Yara Greyjoy
+19. Euron Greyjoy
+20. Sandor "Cao de Caça" Clegane
+21. Gregor "A Montanha" Clegane
+22. Margaery Tyrell
+23. Olenna Tyrell
+24. Brienne of Tarth
+25. Tormund Giantsbane
+26. Bronn
+27. Varys
+28. Petyr "Mindinho" Baelish
+29. Jorah Mormont
+30. Grey Worm
+31. Missandei
+32. Barristan Selmy
+33. Gendry
+34. Ser Davos Seaworth
+35. Hodor
+36. Bronn
+37. Maester Aemon
+38. The High Sparrow
+39. Oberyn Martell
+40. Ellaria Sand
