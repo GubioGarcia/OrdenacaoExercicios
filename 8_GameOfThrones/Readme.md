@@ -1,7 +1,7 @@
-# Doctor Who
+# Game of Thrones
 
-Este projeto é um exercício de estudo focado na implementação de uma aplicação que trabalhe com o algoritmo de busca binária.
+Este projeto é um exercício de estudo focado na implementação de uma aplicação que trabalhe com algoritmo de busca linear e manipulação de arquivo externos.
 
 ## Requisitos
 
-- Dada uma lista de  encarnações do Doctor (Doctor Who). Implemente uma busca binária para encontrar uma encarnação específica do Doctor.
+- Crie uma lista de personagens de "Game of Thrones" e use o algoritmo de busca linear para encontrar um membro específico da família Stark.

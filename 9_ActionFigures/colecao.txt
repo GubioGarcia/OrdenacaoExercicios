@@ -1,0 +1,20 @@
+1. Super Man Classico - Raridade: 3
+2. Robo Espacial - Raridade: 4
+3. Dragao de Fogo - Raridade: 5
+4. Ninja das Sombras - Raridade: 2
+5. Pirata Fantasma - Raridade: 3
+6. Mestre dos Disfarces - Raridade: 4
+7. Princesa Cosmica - Raridade: 5
+8. Cavaleiro do Tempo - Raridade: 3
+9. Ciborgue do Futuro - Raridade: 4
+10. Aventureiro Submarino - Raridade: 2
+11. Homem Aranha (Edicao Classica) - Raridade: 2
+12. Mulher Maravilha (Primeira Aparicao) - Raridade: 4
+13. Batman (Traje de Cavaleiro das Trevas) - Raridade: 3
+14. Capitao America (Uniforme Classico) - Raridade: 2
+15. Superman (Edicao de Aniversario de 80 Anos) - Raridade: 5
+16. Homem de Ferro (Mark XLII) - Raridade: 3
+17. Thor (Com Mjolnir) - Raridade: 2
+18. Pantera Negra (Traje de Vibranium) - Raridade: 4
+19. Flash (Versao Reverso) - Raridade: 4
+20. Mulher Gato (Traje de Ladrao) - Raridade: 3
